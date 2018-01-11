@@ -1,9 +1,12 @@
 - language:
-  idiom: English
+  idiom: Mandarin
   level: Native
 - language:
-  idiom: French
+  idiom: Shanghaiese
+  level: Native
+- language:
+  idiom: Cantonese
   level: Professional
 - language:
-  idiom: Spanish
+  idiom: English
   level: Professional

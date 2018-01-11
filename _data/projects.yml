@@ -1,24 +1,15 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: "Some projects I worked on"
 
 - project:
-  title: Velocity
-  link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  title: Grasshopper
+  link: "https://github.com/githistory/grasshopper"
+  tagline: "A web <-> ssh bridge that lets you hop to a ssh server from a web interface."
 - project:
-  title: DevStudio
-  link: "#"
-  tagline: "A responsive website template designed to help web developers/designers market their services."
+  title: Coffee Stack
+  link: "https://github.com/githistory/coffee-stack"
+  tagline: "A boilerplate for building web apps with pure coffee-script."
 - project:
-  title: Tempo
-  link: "#"
-  tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-- project:
-  title: Atom
-  link: "#"
-  tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-- project:
-  title: Delta
-  link: "#"
-  tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  title: Compass Dollar Calculator
+  link: "https://www.facebook.com/compass.dollar.calculator/app/815462205163249/"
+  tagline: "A Facebook App that helps user calculate their spendings with compass credit card."

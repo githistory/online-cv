@@ -1,18 +1,18 @@
 - skill:
-  name: Python & Django
+  name: nodejs / javascript / coffeescript
   level: 98%
 - skill:
-  name: Javascript & jQuery
+  name: git
   level: 98%
 - skill:
-  name: Angular
+  name: vim
   level: 98%
 - skill:
   name: HTML5 & CSS
   level: 95%
 - skill:
-  name: Ruby on Rails
+  name: Angular
   level: 85%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Docker
+  level: 85%
