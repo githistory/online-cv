@@ -4,12 +4,12 @@
 - project:
   title: Grasshopper
   link: "https://github.com/githistory/grasshopper"
-  tagline: "A web <-> ssh bridge that lets you hop to a ssh server from a web interface."
+  tagline: "基于web界面的ssh客户端"
 - project:
   title: Coffee Stack
   link: "https://github.com/githistory/coffee-stack"
-  tagline: "A boilerplate for building web apps with pure coffee-script."
+  tagline: "用纯coffeescript写网站的框架"
 - project:
   title: Compass Dollar Calculator
   link: "https://www.facebook.com/compass.dollar.calculator/app/815462205163249/"
-  tagline: "A Facebook App that helps user calculate their spendings with compass credit card."
+  tagline: "一个帮助compass信用卡客户计算花销及奖励的脸书App"
